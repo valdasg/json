@@ -1,0 +1,775 @@
+{
+  
+  "body": {
+    "data": {
+      "sessionId": "CE4DF98739624A15A31864A02A71AD5C",
+      "availabilityId": "493765492",
+      "locale": "en",
+      "marketCode": "ES",
+      "swirt": true,
+      "switax": true,
+      "swisdto": false,
+      "adultPax": 1,
+      "childPax": 0,
+      "infantPax": 0,
+      "adultPaxResident": 0,
+      "childPaxResident": 0,
+      "infantPaxResident": 0,
+      "messageItemization": [],
+      "serviceFee": 0,
+      "serviceFeeDiscount": 0,
+      "serviceFeeResidentDiscount": 0,
+      "totalAvailabilities": [
+        {
+          "recommendationId": 1,
+          "total": 684.13
+        },
+        {
+          "recommendationId": 2,
+          "total": 2545.13
+        },
+        {
+          "recommendationId": 3,
+          "total": 2545.13
+        },
+        {
+          "recommendationId": 4,
+          "total": 4406.13
+        }
+      ],
+      "journeys": [
+        {
+          "recommendationId": 1,
+          "identity": 0,
+          "direction": "I",
+          "cabinClass": "TUR",
+          "importChild": 0,
+          "importInfant": 0,
+          "importAdultResident": 0,
+          "importChildResident": 0,
+          "importInfantResident": 0,
+          "discountAdultResident": 0,
+          "discountChildResident": 0,
+          "discountInfantResident": 0,
+          "importTaxAdl": 161.07,
+          "importTaxChd": 0,
+          "importTaxInf": 0,
+          "classCode": "U",
+          "farebasisCode": "ULRTES",
+          "promotionLabel": null,
+          "flights": [
+            {
+              "number": "2703",
+              "airportDeparture": {
+                "code": "MAD",
+                "description": "Madrid",
+                "resident": false,
+                "type": "AIR",
+                "zone": "NAC",
+                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+              },
+              "airportArrival": {
+                "code": "AUH",
+                "description": "Abu Dhabi",
+                "resident": false,
+                "type": "AIR",
+                "zone": "AFR",
+                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+              },
+              "dateDeparture": "2022/04/24 10:10",
+              "dateArrival": "2022/04/24 19:25",
+              "gmtDateDeparture": "2022/04/24 08:10",
+              "gmtDateArrival": "2022/04/24 15:25",
+              "companyCode": "UX",
+              "operator": "ETIHAD AIRLINES",
+              "flote": {
+                "code": "789",
+                "description": "789"
+              },
+              "technicalStop": {
+                "numberStops": 0,
+                "airportStops": []
+              },
+              "terminalDeparture": "4",
+              "terminalArrival": "3",
+              "cabinClass": {
+                "code": "TUR",
+                "description": "Economy"
+              }
+            }
+          ],
+          "businessJourneys": [],
+          "passengersAvailable": 9,
+          "fareFamily": {
+            "code": "ECONOMY",
+            "description": "STANDARD"
+          },
+          "franchiseInformation": {
+            "franchise": 1,
+            "baggageWeight": {
+              "amount": 23,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "hiringSupported": true,
+            "description": "The checked baggage in hold allowed by your fare is 1 piece(s) of 23 kg"
+          },
+          "cabinInformation": {
+            "number": 1,
+            "baggageWeight": {
+              "amount": 10,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  10 kg"
+          }
+        },
+        {
+          "recommendationId": 1,
+          "identity": 0,
+          "direction": "V",
+          "cabinClass": "TUR",
+          "importChild": 0,
+          "importInfant": 0,
+          "importAdultResident": 0,
+          "importChildResident": 0,
+          "importInfantResident": 0,
+          "discountAdultResident": 0,
+          "discountChildResident": 0,
+          "discountInfantResident": 0,
+          "importTaxAdl": 164.06,
+          "importTaxChd": 0,
+          "importTaxInf": 0,
+          "classCode": "U",
+          "farebasisCode": "ULRTES",
+          "promotionLabel": null,
+          "flights": [
+            {
+              "number": "2702",
+              "airportDeparture": {
+                "code": "AUH",
+                "description": "Abu Dhabi",
+                "resident": false,
+                "type": "AIR",
+                "zone": "AFR",
+                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+              },
+              "airportArrival": {
+                "code": "MAD",
+                "description": "Madrid",
+                "resident": false,
+                "type": "AIR",
+                "zone": "NAC",
+                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+              },
+              "dateDeparture": "2022/05/31 02:35",
+              "dateArrival": "2022/05/31 08:30",
+              "gmtDateDeparture": "26/05/2022 22:35",
+              "gmtDateArrival": "2022/05/31 06:30",
+              "companyCode": "UX",
+              "operator": "ETIHAD AIRLINES",
+              "flote": {
+                "code": "789",
+                "description": "789"
+              },
+              "technicalStop": {
+                "numberStops": 0,
+                "airportStops": []
+              },
+              "terminalDeparture": "3",
+              "terminalArrival": "4",
+              "cabinClass": {
+                "code": "TUR",
+                "description": "Economy"
+              }
+            }
+          ],
+          "businessJourneys": [],
+          "passengersAvailable": 9,
+          "fareFamily": {
+            "code": "ECONOMY",
+            "description": "STANDARD"
+          },
+          "franchiseInformation": {
+            "franchise": 1,
+            "baggageWeight": {
+              "amount": 23,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "hiringSupported": true,
+            "description": "The checked baggage in hold allowed by your fare is 1 piece(s) of 23 kg"
+          },
+          "cabinInformation": {
+            "number": 1,
+            "baggageWeight": {
+              "amount": 10,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  10 kg"
+          }
+        },
+        {
+          "recommendationId": 2,
+          "identity": 0,
+          "direction": "I",
+          "cabinClass": "TUR",
+          "importChild": 0,
+          "importInfant": 0,
+          "importAdultResident": 0,
+          "importChildResident": 0,
+          "importInfantResident": 0,
+          "discountAdultResident": 0,
+          "discountChildResident": 0,
+          "discountInfantResident": 0,
+          "importTaxAdl": 161.07,
+          "importTaxChd": 0,
+          "importTaxInf": 0,
+          "classCode": "U",
+          "farebasisCode": "ULRTES",
+          "promotionLabel": null,
+          "flights": [
+            {
+              "number": "2703",
+              "airportDeparture": {
+                "code": "MAD",
+                "description": "Madrid",
+                "resident": false,
+                "type": "AIR",
+                "zone": "NAC",
+                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+              },
+              "airportArrival": {
+                "code": "AUH",
+                "description": "Abu Dhabi",
+                "resident": false,
+                "type": "AIR",
+                "zone": "AFR",
+                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+              },
+              "dateDeparture": "2022/04/24 10:10",
+              "dateArrival": "2022/04/24 19:25",
+              "gmtDateDeparture": "2022/04/24 08:10",
+              "gmtDateArrival": "2022/04/24 15:25",
+              "companyCode": "UX",
+              "operator": "ETIHAD AIRLINES",
+              "flote": {
+                "code": "789",
+                "description": "789"
+              },
+              "technicalStop": {
+                "numberStops": 0,
+                "airportStops": []
+              },
+              "terminalDeparture": "4",
+              "terminalArrival": "3",
+              "cabinClass": {
+                "code": "TUR",
+                "description": "Economy"
+              }
+            }
+          ],
+          "businessJourneys": [],
+          "passengersAvailable": 9,
+          "fareFamily": {
+            "code": "ECONOMY",
+            "description": "STANDARD"
+          },
+          "franchiseInformation": {
+            "franchise": 1,
+            "baggageWeight": {
+              "amount": 23,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "hiringSupported": true,
+            "description": "The checked baggage in hold allowed by your fare is 1 piece(s) of 23 kg"
+          },
+          "cabinInformation": {
+            "number": 1,
+            "baggageWeight": {
+              "amount": 10,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  10 kg"
+          }
+        },
+        {
+          "recommendationId": 2,
+          "identity": 0,
+          "direction": "V",
+          "cabinClass": "BUS",
+          "importChild": 0,
+          "importInfant": 0,
+          "importAdultResident": 0,
+          "importChildResident": 0,
+          "importInfantResident": 0,
+          "discountAdultResident": 0,
+          "discountChildResident": 0,
+          "discountInfantResident": 0,
+          "importTaxAdl": 198.06,
+          "importTaxChd": 0,
+          "importTaxInf": 0,
+          "classCode": "C",
+          "farebasisCode": "CRTES",
+          "promotionLabel": null,
+          "flights": [
+            {
+              "number": "2702",
+              "airportDeparture": {
+                "code": "AUH",
+                "description": "Abu Dhabi",
+                "resident": false,
+                "type": "AIR",
+                "zone": "AFR",
+                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+              },
+              "airportArrival": {
+                "code": "MAD",
+                "description": "Madrid",
+                "resident": false,
+                "type": "AIR",
+                "zone": "NAC",
+                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+              },
+              "dateDeparture": "2022/05/31 02:35",
+              "dateArrival": "2022/05/31 08:30",
+              "gmtDateDeparture": "26/05/2022 22:35",
+              "gmtDateArrival": "2022/05/31 06:30",
+              "companyCode": "UX",
+              "operator": "ETIHAD AIRLINES",
+              "flote": {
+                "code": "789",
+                "description": "789"
+              },
+              "technicalStop": {
+                "numberStops": 0,
+                "airportStops": []
+              },
+              "terminalDeparture": "3",
+              "terminalArrival": "4",
+              "cabinClass": {
+                "code": "BUS",
+                "description": "Business"
+              }
+            }
+          ],
+          "businessJourneys": [],
+          "passengersAvailable": 2,
+          "fareFamily": {
+            "code": "BUSFLEX",
+            "description": "FLEX"
+          },
+          "franchiseInformation": {
+            "franchise": 2,
+            "baggageWeight": {
+              "amount": 23,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "hiringSupported": true,
+            "description": "The checked baggage in hold allowed by your fare is 2 piece(s) of 23 kg"
+          },
+          "cabinInformation": {
+            "number": 1,
+            "baggageWeight": {
+              "amount": 14,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  14 kg"
+          }
+        },
+        {
+          "recommendationId": 3,
+          "identity": 0,
+          "direction": "I",
+          "cabinClass": "BUS",
+          "importChild": 0,
+          "importInfant": 0,
+          "importAdultResident": 0,
+          "importChildResident": 0,
+          "importInfantResident": 0,
+          "discountAdultResident": 0,
+          "discountChildResident": 0,
+          "discountInfantResident": 0,
+          "importTaxAdl": 195.07,
+          "importTaxChd": 0,
+          "importTaxInf": 0,
+          "classCode": "C",
+          "farebasisCode": "CRTES",
+          "promotionLabel": null,
+          "flights": [
+            {
+              "number": "2703",
+              "airportDeparture": {
+                "code": "MAD",
+                "description": "Madrid",
+                "resident": false,
+                "type": "AIR",
+                "zone": "NAC",
+                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+              },
+              "airportArrival": {
+                "code": "AUH",
+                "description": "Abu Dhabi",
+                "resident": false,
+                "type": "AIR",
+                "zone": "AFR",
+                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+              },
+              "dateDeparture": "2022/04/24 10:10",
+              "dateArrival": "2022/04/24 19:25",
+              "gmtDateDeparture": "2022/04/24 08:10",
+              "gmtDateArrival": "2022/04/24 15:25",
+              "companyCode": "UX",
+              "operator": "ETIHAD AIRLINES",
+              "flote": {
+                "code": "789",
+                "description": "789"
+              },
+              "technicalStop": {
+                "numberStops": 0,
+                "airportStops": []
+              },
+              "terminalDeparture": "4",
+              "terminalArrival": "3",
+              "cabinClass": {
+                "code": "BUS",
+                "description": "Business"
+              }
+            }
+          ],
+          "businessJourneys": [],
+          "passengersAvailable": 2,
+          "fareFamily": {
+            "code": "BUSFLEX",
+            "description": "FLEX"
+          },
+          "franchiseInformation": {
+            "franchise": 2,
+            "baggageWeight": {
+              "amount": 23,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "hiringSupported": true,
+            "description": "The checked baggage in hold allowed by your fare is 2 piece(s) of 23 kg"
+          },
+          "cabinInformation": {
+            "number": 1,
+            "baggageWeight": {
+              "amount": 14,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  14 kg"
+          }
+        },
+        {
+          "recommendationId": 3,
+          "identity": 0,
+          "direction": "V",
+          "cabinClass": "TUR",
+          "importChild": 0,
+          "importInfant": 0,
+          "importAdultResident": 0,
+          "importChildResident": 0,
+          "importInfantResident": 0,
+          "discountAdultResident": 0,
+          "discountChildResident": 0,
+          "discountInfantResident": 0,
+          "importTaxAdl": 164.06,
+          "importTaxChd": 0,
+          "importTaxInf": 0,
+          "classCode": "U",
+          "farebasisCode": "ULRTES",
+          "promotionLabel": null,
+          "flights": [
+            {
+              "number": "2702",
+              "airportDeparture": {
+                "code": "AUH",
+                "description": "Abu Dhabi",
+                "resident": false,
+                "type": "AIR",
+                "zone": "AFR",
+                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+              },
+              "airportArrival": {
+                "code": "MAD",
+                "description": "Madrid",
+                "resident": false,
+                "type": "AIR",
+                "zone": "NAC",
+                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+              },
+              "dateDeparture": "2022/05/31 02:35",
+              "dateArrival": "2022/05/31 08:30",
+              "gmtDateDeparture": "26/05/2022 22:35",
+              "gmtDateArrival": "2022/05/31 06:30",
+              "companyCode": "UX",
+              "operator": "ETIHAD AIRLINES",
+              "flote": {
+                "code": "789",
+                "description": "789"
+              },
+              "technicalStop": {
+                "numberStops": 0,
+                "airportStops": []
+              },
+              "terminalDeparture": "3",
+              "terminalArrival": "4",
+              "cabinClass": {
+                "code": "TUR",
+                "description": "Economy"
+              }
+            }
+          ],
+          "businessJourneys": [],
+          "passengersAvailable": 9,
+          "fareFamily": {
+            "code": "ECONOMY",
+            "description": "STANDARD"
+          },
+          "franchiseInformation": {
+            "franchise": 1,
+            "baggageWeight": {
+              "amount": 23,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "hiringSupported": true,
+            "description": "The checked baggage in hold allowed by your fare is 1 piece(s) of 23 kg"
+          },
+          "cabinInformation": {
+            "number": 1,
+            "baggageWeight": {
+              "amount": 10,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  10 kg"
+          }
+        },
+        {
+          "recommendationId": 4,
+          "identity": 0,
+          "direction": "I",
+          "cabinClass": "BUS",
+          "importChild": 0,
+          "importInfant": 0,
+          "importAdultResident": 0,
+          "importChildResident": 0,
+          "importInfantResident": 0,
+          "discountAdultResident": 0,
+          "discountChildResident": 0,
+          "discountInfantResident": 0,
+          "importTaxAdl": 195.07,
+          "importTaxChd": 0,
+          "importTaxInf": 0,
+          "classCode": "C",
+          "farebasisCode": "CRTES",
+          "promotionLabel": null,
+          "flights": [
+            {
+              "number": "2703",
+              "airportDeparture": {
+                "code": "MAD",
+                "description": "Madrid",
+                "resident": false,
+                "type": "AIR",
+                "zone": "NAC",
+                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+              },
+              "airportArrival": {
+                "code": "AUH",
+                "description": "Abu Dhabi",
+                "resident": false,
+                "type": "AIR",
+                "zone": "AFR",
+                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+              },
+              "dateDeparture": "2022/04/24 10:10",
+              "dateArrival": "2022/04/24 19:25",
+              "gmtDateDeparture": "2022/04/24 08:10",
+              "gmtDateArrival": "2022/04/24 15:25",
+              "companyCode": "UX",
+              "operator": "ETIHAD AIRLINES",
+              "flote": {
+                "code": "789",
+                "description": "789"
+              },
+              "technicalStop": {
+                "numberStops": 0,
+                "airportStops": []
+              },
+              "terminalDeparture": "4",
+              "terminalArrival": "3",
+              "cabinClass": {
+                "code": "BUS",
+                "description": "Business"
+              }
+            }
+          ],
+          "businessJourneys": [],
+          "passengersAvailable": 2,
+          "fareFamily": {
+            "code": "BUSFLEX",
+            "description": "FLEX"
+          },
+          "franchiseInformation": {
+            "franchise": 2,
+            "baggageWeight": {
+              "amount": 23,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "hiringSupported": true,
+            "description": "The checked baggage in hold allowed by your fare is 2 piece(s) of 23 kg"
+          },
+          "cabinInformation": {
+            "number": 1,
+            "baggageWeight": {
+              "amount": 14,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  14 kg"
+          }
+        },
+        {
+          "recommendationId": 4,
+          "identity": 0,
+          "direction": "V",
+          "cabinClass": "BUS",
+          "importChild": 0,
+          "importInfant": 0,
+          "importAdultResident": 0,
+          "importChildResident": 0,
+          "importInfantResident": 0,
+          "discountAdultResident": 0,
+          "discountChildResident": 0,
+          "discountInfantResident": 0,
+          "importTaxAdl": 198.06,
+          "importTaxChd": 0,
+          "importTaxInf": 0,
+          "classCode": "C",
+          "farebasisCode": "CRTES",
+          "promotionLabel": null,
+          "flights": [
+            {
+              "number": "2702",
+              "airportDeparture": {
+                "code": "AUH",
+                "description": "Abu Dhabi",
+                "resident": false,
+                "type": "AIR",
+                "zone": "AFR",
+                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+              },
+              "airportArrival": {
+                "code": "MAD",
+                "description": "Madrid",
+                "resident": false,
+                "type": "AIR",
+                "zone": "NAC",
+                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+              },
+              "dateDeparture": "2022/05/31 02:35",
+              "dateArrival": "2022/05/31 08:30",
+              "gmtDateDeparture": "26/05/2022 22:35",
+              "gmtDateArrival": "2022/05/31 06:30",
+              "companyCode": "UX",
+              "operator": "ETIHAD AIRLINES",
+              "flote": {
+                "code": "789",
+                "description": "789"
+              },
+              "technicalStop": {
+                "numberStops": 0,
+                "airportStops": []
+              },
+              "terminalDeparture": "3",
+              "terminalArrival": "4",
+              "cabinClass": {
+                "code": "BUS",
+                "description": "Business"
+              }
+            }
+          ],
+          "businessJourneys": [],
+          "passengersAvailable": 2,
+          "fareFamily": {
+            "code": "BUSFLEX",
+            "description": "FLEX"
+          },
+          "franchiseInformation": {
+            "franchise": 2,
+            "baggageWeight": {
+              "amount": 23,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "hiringSupported": true,
+            "description": "The checked baggage in hold allowed by your fare is 2 piece(s) of 23 kg"
+          },
+          "cabinInformation": {
+            "number": 1,
+            "baggageWeight": {
+              "amount": 14,
+              "measurementType": {
+                "code": "KG",
+                "description": "kg"
+              }
+            },
+            "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  14 kg"
+          }
+        }
+      ],
+      "calendarJourneys": [],
+      "journeyConstraint": [],
+      "blockType": "P",
+      "availabilityFactor": {
+        "availabilityProviderType": "O",
+        "availabilityProviderReasonType": "U"
+      },
+      "showDiscounts": true,
+      "discountLabel": "",
+      "swiservicefee": false,
+      "availabilityZoneType": "AFR"
+    }
+  }
+}
